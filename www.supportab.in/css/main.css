@@ -147,7 +147,9 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 .btn-back-to-top:hover {
   opacity: 1;
 }
-
+.animsition {
+  overflow-y: hidden;
+}
 @media (max-width: 575px) {
   .btn-back-to-top {
     bottom: 0px;
@@ -437,6 +439,10 @@ a.left-topbar-item:hover {
   -ms-transform: scaleX(0);
   -o-transform: scaleX(0);
   transform: scaleX(0);
+}
+
+.main-menu > li:first-child > a::after {
+display: none;
 }
 
 .main-menu > li > a::after {

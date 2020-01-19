@@ -148,7 +148,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   opacity: 1;
 }
 .animsition {
-  overflow-y: hidden;
+  overflow-y: auto;
 }
 @media (max-width: 575px) {
   .btn-back-to-top {
@@ -398,9 +398,10 @@ a.left-topbar-item:hover {
   position: relative;
 }
 
+.main-menu > li > a:hover {  color: #17b978 !important; }
 .main-menu > li > a {
   font-family: Roboto-Medium;
-  font-size: 16px;
+  font-size: 20.2px;
   line-height: 1.5;
   color: #222;
   
@@ -445,7 +446,7 @@ a.left-topbar-item:hover {
 display: none;
 }
 
-.main-menu > li > a::after {
+/*.main-menu > li > a::after {
   content: "\f2f9";
   font-family: Material-Design-Iconic-Font;
   font-size: 16px;
@@ -458,7 +459,7 @@ display: none;
   -o-transition: all 0.3s;
   -moz-transition: all 0.3s;
 }
-
+*/
 li.main-menu-active > a::before {
   -webkit-transform: scaleX(1);
   -moz-transform: scaleX(1);
@@ -562,6 +563,7 @@ li.respon-sub-menu > .sub-menu .sub-menu {
 
 
 /*---------------------------------------------*/
+
 .main-menu > li:hover > a:after {
   color: #17b978;
 }
@@ -682,7 +684,7 @@ li.respon-sub-menu > .sub-menu .sub-menu {
   display: -ms-flexbox;
   display: flex;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: center;
 }
 
 .fix-menu-desktop .menu-desktop .logo-stick {

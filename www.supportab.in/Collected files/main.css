@@ -209,7 +209,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 }
 
 a.left-topbar-item:hover {
-  color: #17b978;
+  color: #17b978;fhmbnv 
 }
 
 .left-topbar-item::before {
@@ -418,7 +418,7 @@ a.left-topbar-item:hover {
   -webkit-transition: all 0.3s;
 }
 
-.main-menu > li > a::before {
+/*.main-menu > li > a::before {
   content: "";
   display: block;
   position: absolute;
@@ -437,9 +437,9 @@ a.left-topbar-item:hover {
   -ms-transform: scaleX(0);
   -o-transform: scaleX(0);
   transform: scaleX(0);
-}
+}*/
 
-.main-menu > li > a::after {
+/*.main-menu > li > a::after {
   content: "\f2f9";
   font-family: Material-Design-Iconic-Font;
   font-size: 16px;
@@ -452,7 +452,7 @@ a.left-topbar-item:hover {
   -o-transition: all 0.3s;
   -moz-transition: all 0.3s;
 }
-
+*/
 li.main-menu-active > a::before {
   -webkit-transform: scaleX(1);
   -moz-transform: scaleX(1);

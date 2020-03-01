@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<div itemscope>
+	<p>My name is <span itemprop="name">John Corter</span> I live in <span itemprop="city">Gurgaon</span>, <span itemprop="country">India</span></p>
+</div>
+<!-- Name  = John Corter
+City = Gurgaon
+Country  = India -->
+<div itemscope itemtype="https://schema.org/WebSite">
+  <meta itemprop="url" content="https://www.example.com/"/>
+  <form itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
+    <meta itemprop="target" content="https://query.example.com/search?q={search_term_string} lated"/>
+    <input itemprop="query-input" type="text" name="search_term_string" required/>
+    <input type="submit" value="Search" />
+  </form>
+</div>
+
+</body>
+</html>

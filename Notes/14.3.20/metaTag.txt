@@ -1,0 +1,28 @@
+<!-- OG Share Properties -> Start -->
+				<meta property="og:url" content="https://www.moneycontrol.com/india/stockpricequote/mediaentertainment/zeeentertainmententerprises/ZEE" /> 
+				<meta property="og:title" content="Zee Entertain Share Price, Zee Entertain Stock Price, Zee Entertainment Enterprises Ltd. Stock Price, Share Price, Live BSE/NSE, Zee Entertainment Enterprises Ltd. Bids Offers. Buy/Sell Zee Entertainment Enterprises Ltd. news &amp; tips, &amp; F&amp;O Quotes, NSE/BSE Forecast News and Live Quotes" />
+				<meta property="og:description" content="Zee Entertain Share Price, Zee Entertain Stock Price, Zee Entertainment Enterprises Ltd. Stock/Share prices, Zee Entertainment Enterprises Ltd. Live BSE/NSE, F&amp;O Quote of Zee Entertainment Enterprises Ltd. with Historic price charts for NSE / BSE. Experts &amp; Broker view on Zee Entertainment Enterprises Ltd. buy sell tips. Get Zee Entertainment Enterprises Ltd. detailed news, announcements, financial report, company information, annual report, balance sheet, profit &amp; loss account, results and more." />
+				<meta property="og:image" content="https://img-d02.moneycontrol.co.in/images/common/mc_logo_200x200.png" />
+			<meta property="og:type" content="article" />
+<meta name="Author" content="Moneycontrol.com" />
+
+<!-- WebPage Schema -> Start -->
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "WebPage",
+			"name": "Zee Entertain Share Price, Zee Entertain Stock Price, Zee Entertainment Enterprises Ltd. Stock Price, Share Price, Live BSE/NSE, Zee Entertainment Enterprises Ltd. Bids Offers. Buy/Sell Zee Entertainment Enterprises Ltd. news &amp; tips, &amp; F&amp;O Quotes, NSE/BSE Forecast News and Live Quotes",
+			"description": "Zee Entertain Share Price, Zee Entertain Stock Price, Zee Entertainment Enterprises Ltd. Stock/Share prices, Zee Entertainment Enterprises Ltd. Live BSE/NSE, F&amp;O Quote of Zee Entertainment Enterprises Ltd. with Historic price charts for NSE / BSE. Experts &amp; Broker view on Zee Entertainment Enterprises Ltd. buy sell tips. Get Zee Entertainment Enterprises Ltd. detailed news, announcements, financial report, company information, annual report, balance sheet, profit &amp; loss account, results and more.",
+			"url" : "https://www.moneycontrol.com/india/stockpricequote/mediaentertainment/zeeentertainmententerprises/ZEE",
+			"publisher": {
+				"@type": "Organization",
+				"name": "Moneycontrol",
+				"url" : "https://www.moneycontrol.com/",
+				"logo" : {
+					"@type": "ImageObject",
+					"contentUrl": "https://img-d02.moneycontrol.co.in/images/common/mc_logo_200x200.png"
+				}
+			}
+		}
+	</script>
+<!-- End <- WebPage Schema -->
